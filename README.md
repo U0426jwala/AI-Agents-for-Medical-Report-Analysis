@@ -309,9 +309,8 @@ Solution: Ensure PDF is text-based, not scanned images
 
 ### Getting Help
 
-- 📧 **Email**: support@medisynth-ai.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/medisynth-ai/issues)
-- 📖 **Wiki**: [Project Wiki](https://github.com/yourusername/medisynth-ai/wiki)
+- 📧 **Email**: ujwalakusma26@gmail.com
+- 💬 **Issues**: [GitHub Issues](https://github.com/U0426jwala/AI-Agents-for-Medical-Report-Analysis.git)
 
 ## 🙏 Acknowledgments
 
